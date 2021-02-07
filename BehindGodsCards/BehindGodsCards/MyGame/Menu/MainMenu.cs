@@ -48,19 +48,17 @@ namespace BehindGodsCards.Menu
             Boutons.Add(new MenuButtons("credits_sprite_1", "credits_sprite_2", "credits_sprite_3", Content, "Credits"));
             Boutons.Add(new MenuButtons("quit_sprite_1", "quit_sprite_2", "quit_sprite_3", Content, "Quit"));
 
+            BackGroundPosition = new Vector2(0, 0);
+            TitrePosition = new Vector2((WindowWidth - TitreTexture.Width) / 2, TitreTexture.Height / 6);
+            YnovLogoPosition = new Vector2(-10, WindowHeight - YnovLogoTexture.Height + 10);
 
-            int ButtonSpace = (WindowHeight - 80 - 4 * Boutons[1].Sprite1.Height) / (Boutons.Count + 1);
-            
+            int ButtonSpace = TitreTexture.Height / 6;
             for (int i = 0; i < Boutons.Count; i++)
             {
                 Boutons[i].ButtonsPosition.X = (WindowWidth - Boutons[i].Sprite1.Width) / 2;
-                Boutons[i].ButtonsPosition.Y = WindowHeight / 4 + (i + 1) * ButtonSpace + (i * Boutons[i].Sprite1.Height);
+                Boutons[i].ButtonsPosition.Y = TitreTexture.Height + i * (Boutons[0].Sprite1.Height + ButtonSpace);
             }
 
-
-            BackGroundPosition = new Vector2(0, 0);
-            TitrePosition = new Vector2((WindowWidth - TitreTexture.Width) / 2, WindowHeight / 14);
-            YnovLogoPosition = new Vector2(-10, WindowHeight - YnovLogoTexture.Height + 10);
         }
         public string Update()
         {
