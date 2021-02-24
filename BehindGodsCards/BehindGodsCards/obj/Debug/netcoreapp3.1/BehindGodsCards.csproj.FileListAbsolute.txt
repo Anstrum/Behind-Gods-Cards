@@ -189,3 +189,6 @@ C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-God
 C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\obj\Debug\netcoreapp3.1\BehindGodsCards.genruntimeconfig.cache
 C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
 C:\Users\cyril\Desktop\Professionnel\Ynov\B1\Yday's\Behind Gods Cards\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\MapBackground.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\GameContent\SampleChracter.xnb
+C:\Behind-Gods-Cards\BehindGodsCards\BehindGodsCards\bin\Debug\netcoreapp3.1\Content\MenuAudio\SelectedSound.xnb

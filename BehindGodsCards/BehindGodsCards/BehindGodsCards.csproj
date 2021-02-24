@@ -26,5 +26,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\bin\Windows\Content\" />
+    <Folder Include="Content\MenuAudio\" />
   </ItemGroup>
 </Project>

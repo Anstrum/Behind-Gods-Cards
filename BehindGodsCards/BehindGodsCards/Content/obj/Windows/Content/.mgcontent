@@ -4,25 +4,27 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/GameContent/MapBackground.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/GameContent/SampleChracter.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/bgBGC.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_1.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_2.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_3.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_1.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_2.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_3.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_1.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_2.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_3.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_1.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_2.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_3.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/titremenu.png</File>
-    <File>C:/Users/cyril/Desktop/Professionnel/Ynov/B1/Yday's/Behind Gods Cards/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/YnovLogo.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/GameContent/MapBackground.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/GameContent/SampleChracter.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuAudio/SelectedSound.wav</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/bgBGC.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_1.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_2.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/credits_sprite_3.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_1.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_2.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/option_sprite_3.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_1.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_2.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/play_sprite_3.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_1.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_2.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/quit_sprite_3.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/titremenu.png</File>
+    <File>C:/Behind-Gods-Cards/BehindGodsCards/BehindGodsCards/Content/MenuContent/YnovLogo.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
