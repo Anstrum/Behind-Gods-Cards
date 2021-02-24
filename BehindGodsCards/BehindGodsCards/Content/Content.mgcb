@@ -37,6 +37,12 @@
 /processorParam:TextureFormat=Color
 /build:GameContent/SampleChracter.png
 
+#begin MenuAudio/SelectedSound.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:MenuAudio/SelectedSound.wav
+
 #begin MenuContent/bgBGC.png
 /importer:TextureImporter
 /processor:TextureProcessor

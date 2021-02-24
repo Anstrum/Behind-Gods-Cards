@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyril\\Desktop\\Professionnel\\Ynov\\B1\\Yday's\\Behind Gods Cards\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj": {}
+    "C:\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyril\\Desktop\\Professionnel\\Ynov\\B1\\Yday's\\Behind Gods Cards\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj": {
+    "C:\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyril\\Desktop\\Professionnel\\Ynov\\B1\\Yday's\\Behind Gods Cards\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj",
+        "projectUniqueName": "C:\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj",
         "projectName": "BehindGodsCards",
-        "projectPath": "C:\\Users\\cyril\\Desktop\\Professionnel\\Ynov\\B1\\Yday's\\Behind Gods Cards\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj",
-        "packagesPath": "C:\\Users\\cyril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyril\\Desktop\\Professionnel\\Ynov\\B1\\Yday's\\Behind Gods Cards\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\obj\\",
+        "projectPath": "C:\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\BehindGodsCards.csproj",
+        "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Behind-Gods-Cards\\BehindGodsCards\\BehindGodsCards\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cyril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
